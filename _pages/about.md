@@ -25,7 +25,7 @@ Whenever I have some free time, I also work as a freelance consultant on project
 On another note, my research and professional interests include:
 - Machine Learning & Predictive Modeling
 - Natural Language Processing & Text Analytics
-- Applications in **Finance, Risk, and Data-Driven Decision-Making**
+- Applications in **Economics, Finance, and Data-Driven Decision-Making/business settings**
 
 I am fluent in **English (C2), German (C1), Spanish, and Basque**, and I enjoy working in international and interdisciplinary environments.  
 
