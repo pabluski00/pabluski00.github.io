@@ -2,7 +2,7 @@
 title: "Graduate Teaching Assistant"
 collection: teaching
 type: "Graduate Teaching"
-permalink: /teaching/2023-fall-gta-wlu
+permalink: /teaching/WLU_TA
 venue: "Wilfrid Laurier University, Department of Mathematics"
 date: 2023-09-01
 location: "Waterloo, Ontario, Canada"
