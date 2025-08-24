@@ -1,5 +1,5 @@
 ---
-title: "Graduate Teaching Assistant"
+title: "Graduate Teaching Assistant @ WLU"
 collection: teaching
 permalink: /teaching/WLU_TA
 type: Undergraduate courses
