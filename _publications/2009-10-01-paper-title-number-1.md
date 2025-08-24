@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "Sentiment-Driven Statistical Modelling of Stock Returns over Weekends"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2024-08-04-financial-news-impact
+excerpt: 'This paper introduces the concept of impact probabilities of financial news headlines using logistic regression, with Apple (AAPL) as a case study.'
+date: 2025-08-21
+venue: 'Computation'
+paperurl: 'https://doi.org/10.3390/computation13080201'
+citation: 'Kowalski Kutz, P., & Makarov, R.N. "Sentiment-Driven Statistical Modelling of Stock Returns over Weekends" <i>Computation</i>, 13(8), 201. https://doi.org/10.3390/computation13080201'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This paper proposes the concept of *impact probabilities* of financial news on stock returns, leveraging logistic regression.  
+A case study on Apple Inc. (AAPL) stock demonstrates how weekend headlines affect returns.  
+The methodology provides a framework for measuring and forecasting news impacts with implications for behavioral finance and quantitative trading.  
