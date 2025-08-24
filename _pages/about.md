@@ -12,9 +12,11 @@ redirect_from:
 
 I am a statistician and data scientist with international academic and industry experience in **predictive modeling, machine learning, natural language processing, and statistical analysis**. My background combines a strong foundation in mathematics and statistics with hands-on work in both academia and applied data science.
 
-I completed my **M.Sc. in Statistics** at *Wilfrid Laurier University (Canada)*, where my research focused on the predictive power of financial news sentiment using statistical algorithms. During my master’s, I worked as a **Graduate Teaching Assistant** in the Department of Mathematics, in courses such as Probability, Linear Algebra, and Data Analytics.
+I am an incoming Economics PhD student at *University of Deusto (Spain)*
 
-Previously, I earned my **B.Math. in Mathematics & Statistics** at the *University of Waterloo (Canada)*. I also received first place in the **Premio Extraordinario de Bachillerato** in the Basque Country, Spain.
+I completed my **M.Sc. in Mathematics & Statistics** at *Wilfrid Laurier University (Canada)*, where my research focused on the predictive power of financial news sentiment using statistical algorithms. During my master’s, I worked as a **Graduate Teaching Assistant** in the Department of Mathematics, in courses such as Probability, Linear Algebra, and Data Analytics.
+
+Previously, I earned my **B.Math. in Statistics** at the *University of Waterloo (Canada)*. I also received first place in the **Premio Extraordinario de Bachillerato** in the Basque Country, Spain.
 
 Beyond academia, I have held **data analytics internships** at **TD Bank, Commerzbank and Audi**, gaining experience in financial modeling, risk analytics, and business intelligence. More recently, I worked as a **Consultant at EY-Parthenon**, where I applied data-driven insights in strategy and analytics projects related to finance and pensions.
 
