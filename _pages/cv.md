@@ -24,13 +24,13 @@ Education
 
 Work Experience
 ======
-* **Consultant** — EY-Parthenon, Germany, 2024  
+* **Consultant** — EY-Parthenon, Frankfurt am Main, Germany, 2024  
 
-* **Pricing Analyst Intern** — TD Bank, Canada, 2023
+* **Pricing Analyst Intern** — TD Bank, Toronto, Canada, 2023
 
-* **Business Intelligence Intern** — TD Bank, Canada, 2022
+* **Business Intelligence Intern** — TD Bank, Toronto, Canada, 2022
 
-* **Data Analytics Intern** — Commerzbank, Germany, 2020
+* **Data Analytics Intern** — Commerzbank, Frankfurt am Main, Germany, 2020
 
 * **Machine Learning Research Intern** — Audi, Germany, 2020
 
