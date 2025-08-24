@@ -13,10 +13,12 @@ Education
 ======
 * **M.Sc. in Mathematics & Statistics**, Wilfrid Laurier University, Waterloo, Ontario, Canada — 2023-2024
   * Master's Research Project: *Sentiment-Driven Statistical Modelling of Stock Returns over Weekends*  
-  * Graduate Teaching Assistant, Department of Mathematics  
+  * Graduate Teaching Assistant, Department of Mathematics
+  * Award for Outstanding Graduate Work
 
 * **B.Math. in Statistics**, University of Waterloo, Waterloo, Ontario, Canada — 2018-2023
   * 5 Term Distinctions
+  * Graduated with Distinction
 
 * **Spanish Baccalaureate**, St. Patrick's English School, Donostia-San Sebastián, Gipuzkoa, Spain  
 
