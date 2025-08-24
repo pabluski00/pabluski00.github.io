@@ -1,7 +1,7 @@
 ---
 title: "Lecturer"
 collection: teaching
-type: "Lecturer"
+type: "Undegraduate courses"
 permalink: /teaching/Deusto_Lecturer
 venue: "University of Deusto, Deusto Business School"
 date: 2025-09-01
