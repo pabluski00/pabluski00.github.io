@@ -1,20 +1,16 @@
 ---
-title: "Teaching experience 1"
+title: "Graduate Teaching Assistant"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Graduate Teaching"
+permalink: /teaching/2023-fall-gta-wlu
+venue: "Wilfrid Laurier University, Department of Mathematics"
+date: 2023-09-01
+location: "Waterloo, Ontario, Canada"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+As a Graduate Teaching Assistant at Wilfrid Laurier University, I supported undergraduate courses in **Calculus, Data Analytics, Linear Algebra, and Probability**.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+### Responsibilities
+- Designed and graded midterms and final exams.  
+- Taught weekly **Problem-Solving Sessions** for 100+ students.  
+- Coordinated **10+ exam proctors** and organized **12 weekly lab sections** for more than **500 students**.  
