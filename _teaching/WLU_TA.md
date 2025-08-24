@@ -2,6 +2,7 @@
 title: "Graduate Teaching Assistant"
 collection: teaching
 permalink: /teaching/WLU_TA
+type: Undergraduate courses
 venue: "Wilfrid Laurier University, Department of Mathematics"
 date: 2023-09-01
 location: "Waterloo, Ontario, Canada"
