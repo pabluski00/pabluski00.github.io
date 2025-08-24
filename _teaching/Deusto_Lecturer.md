@@ -1,9 +1,9 @@
 ---
-title: "Lecturer"
+title: "Lecturer @ DBS"
 collection: teaching
 type: "Undegraduate courses"
 permalink: /teaching/Deusto_Lecturer
-venue: "University of Deusto, Deusto Business School"
+venue: "University of Deusto, Deusto Business School (DBS)"
 date: 2025-09-01
 location: "Donostia-San Sebastian/Bilbao, Basque Country, Spain"
 ---
