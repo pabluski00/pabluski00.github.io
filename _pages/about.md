@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-**Statistician & Data Scientist | Machine Learning · NLP · Applied Statistics**
+Statistician & Data Scientist | Machine Learning · NLP · Applied Statistics
 
 
 I am a statistician and data scientist with international academic and industry experience in **predictive modeling, machine learning, natural language processing, and statistical analysis**. My background combines a strong foundation in mathematics and statistics with hands-on work in both academia and applied data science.
@@ -18,7 +18,7 @@ I completed my **M.Sc. in Mathematics & Statistics** at *Wilfrid Laurier Univers
 
 Previously, I earned my **B.Math. in Statistics** at the *University of Waterloo (Canada)*. I also received first place in the **Premio Extraordinario de Bachillerato** in the Basque Country, Spain.
 
-Beyond academia, I have held **data analytics internships** at **TD Bank, Commerzbank and Audi**, gaining experience in financial modeling, risk analytics, and business intelligence. More recently, I worked as a **Consultant at EY-Parthenon**, where I applied data-driven insights in strategy and analytics projects related to finance and pensions.
+Beyond academia, I have held **data analytics co-ops (internships)** at **TD Bank, Commerzbank and Audi**, gaining experience in financial modeling, risk analytics, and business intelligence. More recently, I worked as a **Consultant at EY-Parthenon**, where I applied data-driven insights in strategy and analytics projects related to finance and pensions.
 
 My research and professional interests include:
 - Machine Learning & Predictive Modeling
