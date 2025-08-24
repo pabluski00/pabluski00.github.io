@@ -8,6 +8,5 @@ date: 2025-09-01
 location: "Donostia-San Sebastian/Bilbao, Basque Country, Spain"
 ---
 
-- **Fall 2025:**
-  - **Mathematical Methods (Algebra & Calculus)**
-  - **Prediction and Estimation Models (Econometrics)**
+  - **Mathematical Methods (Algebra & Calculus)**  **Fall 2025:**
+  - **Prediction and Estimation Models (Econometrics)**  **Fall 2025:**
