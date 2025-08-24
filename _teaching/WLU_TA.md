@@ -1,16 +1,15 @@
 ---
 title: "Graduate Teaching Assistant"
 collection: teaching
-type: "Graduate Teaching"
 permalink: /teaching/WLU_TA
 venue: "Wilfrid Laurier University, Department of Mathematics"
-date: 2023-09-01
+start_date: 2023-09-01
+end_date: 2024-05-31
 location: "Waterloo, Ontario, Canada"
 ---
 
-As a Graduate Teaching Assistant at Wilfrid Laurier University, I supported undergraduate courses in **Calculus, Data Analytics, Linear Algebra, and Probability**.
+**ST259 - Probability I
+DATA100 - Introduction to Data Analytics
+MA122 - Introductory Linear Algebra
+MA129 - Introductory Calculus for Business and Social Sciences**.
 
-### Responsibilities
-- Designed and graded midterms and final exams.  
-- Taught weekly **Problem-Solving Sessions** for 100+ students.  
-- Coordinated **10+ exam proctors** and organized **12 weekly lab sections** for more than **500 students**.  
