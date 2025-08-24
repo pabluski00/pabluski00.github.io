@@ -11,7 +11,6 @@ location: "Waterloo, Ontario, Canada"
 - **Winter 2024:**
   - **[DATA100 - Introduction to Data Analytics](https://academic-calendar.wlu.ca/course.php?c=60407&cal=1&d=2426&s=1000&y=83)**
   - **[MA129 - Introductory Calculus for Business and Social Sciences](https://academic-calendar.wlu.ca/course.php?c=60343&cal=1&d=2414&s=1000&y=83)**
-
 - **Fall 2023:**
   - **[ST259 - Probability I](https://academic-calendar.wlu.ca/course.php?c=76585&cal=1&d=3120&s=1152&y=92)**
   - **[MA122 - Introductory Linear Algebra](https://academic-calendar.wlu.ca/course.php?c=56711&cal=1&d=2243&s=966&y=81)**
